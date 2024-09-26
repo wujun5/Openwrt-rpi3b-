@@ -1,4 +1,6 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+**English** |[中文](https://github.com/wujun5/Openwrt-rpi3b-/edit/main/README_cn.md)
+
+[开始制作你的openwrt镜像](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
 
